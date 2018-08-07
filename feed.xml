@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>CoderZh Blog on CoderZh Blog</title>
+        <link>http://wamgxxc.github.io/feed.xml</link>
+        <language>zh-CN</language>
+        <author>CoderZh</author>
+        <rights>Copyright (c) 2015, CoderZh; all rights reserved.</rights>
+        <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+        
+    </channel>
+</rss>
